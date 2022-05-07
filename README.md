@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 Welcome to my Github
-- 🌱 Nice to meet you
-- 👯 I’m from Yakutia
-- 🤔 -50 degrees
+- 🔭 Hi, my name is Alexandr
+- 🌱 Welcome to my Github
+- 👯 Nice to meet you my friend
+- 🤔 I am from Yakutia.
+
 
 
 
