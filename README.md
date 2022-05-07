@@ -2,8 +2,9 @@ ___
 ## Hi everyone 👋
 - 🔭 Hi, my name is Alexandr
 - 🌱 Welcome to my Github
-- 👯 Nice to meet you my friend
-- 🤔 I am from Yakutia.
+- 👯 I am from Yakutia.
+- 🤔 I’m interested in programming and making videos
+- I’m currently learning C++
 ___
 
 
